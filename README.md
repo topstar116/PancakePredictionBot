@@ -9,7 +9,7 @@ https://nodejs.org/en/download/
 
 Then run the following commands in terminal:
 
-1. ``git clone https://github.com/CrytoA/PancakePredictionBot.git`` 
+``git clone https://github.com/CrytoA/PancakePredictionBot.git`` 
 
 
 ## ⚙️ Setup
