@@ -1,4 +1,4 @@
-# 🔮🚀 New Prediction v1.0
+# 🔮🚀 pancakeswap prediction bot v1.0
 
 The bot that uses martingale system.
 
