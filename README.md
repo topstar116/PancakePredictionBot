@@ -44,6 +44,10 @@ Make a minimum INIT_BET of 0.005bnb to get a minimal profit. There are many case
 
 START_BET is the amount to bet when starting the bot. If you win, you will bet INIT_BET in the next round.
 
+## 🚧 Test
+Red underlined items are winning rounds, others are losing rounds.
+![enter image description here](/img/test.png?raw=true)
+
 ## 👁️ Tips
 Of course, this bot's strategy isn't all-around, and it's not without risk.
     
