@@ -67,8 +67,7 @@ const aggregatorV3InterfaceABI = [
   },
 ]
 ////        BNB/USD price contract
-const addr = "0xd276fcf34d54a926773c399ebaa772c12ec394ac"
-const priceFeed = new w.eth.Contract(aggregatorV3InterfaceABI, addr)
+const priceFeed = new w.eth.Contract(aggregatorV3InterfaceABI, process.env.PRICE_ADDRESS)
 
 const wallet = w.eth.accounts.wallet.add(w.eth.accounts.privateKeyToAccount(process.env.PRIVATE_KEY))
 w.eth.defaultAccount = w.eth.accounts.privateKeyToAccount(process.env.PRIVATE_KEY).address
