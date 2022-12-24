@@ -24,7 +24,7 @@ INIT_BET: 0.005,    // initial bet amount after winning (In BNB)
 START_BET: 0.005,   // bet amount when starting bot (In BNB)
 TIME_TO_NEXT: 5,    // betting time before starting next round (seconds)
 ```
-4. Start the bot using `npm start` or `yarn start`
+4. Start the bot using `yarn start`. If this doesn't work, please run  `npm start`.
 5. 🔮 Enjoy!
 
 ### 🔓 How to convert seed phrase to Private Key
